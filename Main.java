@@ -7,7 +7,7 @@ public class Main {
 		EvenOrOdd eo = new EvenOrOdd();
 		NearestNumbers nn = new NearestNumbers();
 		ArrayAndArrayList aal = new ArrayAndArrayList();
-                int run;
+		int run;
 	    	// do while loop: run again until a condition is no longer satisfied
 		do{
 			Scanner sc = new Scanner(System.in);
